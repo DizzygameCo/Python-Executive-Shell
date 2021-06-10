@@ -17,3 +17,7 @@ Wednesday, June 9th, 2021, Python Executive Shell v Beta 1.15.py
   • Changed name of repo
   • Made a more user friendly command line with \n
   • Tested for Linux: it works!
+  
+Thursday, June 10th, 2021, Python Executive Shell v Beta 1.16.py
+  • Added an error message for un-recognized commands
+ 
